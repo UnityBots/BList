@@ -1,6 +1,6 @@
 {  
    "LegendsBot": {  
-      "active": true,
+      "active": "true",
       "url": "https://github.com/UnityBots/LegendsBot/raw/master/LegendsBot.zip",
       "status": "Undetected",
       "version": "1.0",
