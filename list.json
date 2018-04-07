@@ -1,10 +1,10 @@
 {  
    "LegendsBot": {  
-      "active": "true",
-      "url": "https\://github.com/UnityBots/LegendsBot/raw/master/LegendsBot\.zip",
+      "active": true,
+      "url": "https://github.com/UnityBots/LegendsBot/raw/master/LegendsBot.zip",
       "status": "Undetected",
-      "version": "1\.0",
+      "version": "1.0",
       "lastDetected": "never",
-      "gameName": "The Elder Scrolls\: Legends"
+      "gameName": "The Elder Scrolls: Legends"
    }
 }
