@@ -5,6 +5,16 @@
       "status": "Undetected",
       "version": "1.0",
       "lastDetected": "never",
-      "gameName": "The Elder Scrolls: Legends"
+      "gameName": "The Elder Scrolls: Legends",
+      "lastUpdate": "01.01.2020"
+   },
+      "VerseBot": {  
+      "active": true,
+      "url": "https://github.com/UnityBots/VerseBot/raw/master/VerseBot.zip",
+      "status": "Undetected",
+      "version": "1.0",
+      "lastDetected": "never",
+      "gameName": "Shadowverse",
+      "lastUpdate": "02.01.2020"
    }
 }
